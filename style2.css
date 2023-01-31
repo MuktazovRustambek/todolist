@@ -1,0 +1,21 @@
+h1{
+    color: red;
+}
+p{
+    color:aqua;
+    width: 1000px;
+    font-family: cursive;
+    text-indent: 20px;
+}
+
+em{
+    color: rgb(60, 68, 68);
+    font-family: 'Times New Roman', Times, serif;
+}
+li{
+    color: darkblue;
+    font-family: cursive;
+}
+img{
+    width: 200px;
+}c
